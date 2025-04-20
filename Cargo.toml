@@ -1,0 +1,10 @@
+[package]
+name = "tournament_tracker"
+version = "0.0.1"
+edition = "2024"
+
+[dependencies]
+eframe = "0.27"
+serde = { version = "1.0", features = ["derive"] }
+serde_json = "1.0"
+image = "0.25"
