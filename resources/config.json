@@ -1,5 +1,6 @@
 {
     "username": "admin",
     "password": "admin",
-    "image_path": "resources/logo.png"
+    "image_path": "resources/logo.png",
+    "image_login_success": "resources/loginSuccess.jpg"
   }
